@@ -5,7 +5,7 @@ This is a simple and responsive To-Do List website built with **HTML** and **CSS
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://maha-fatima.github.io/todo-list-project/)
+👉 [Click here to view the live site](https://github.com/maha-fatima/Todo-list-project.)
 
 
 
