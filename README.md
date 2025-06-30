@@ -7,7 +7,7 @@ This is a simple and responsive To-Do List website built with **HTML** and **CSS
 
 👉 [Click here to view the live site](https://maha-fatima.github.io/todo-list-project/)
 
-> Replace `yourusername` with your actual GitHub username.
+
 
 ---
 
